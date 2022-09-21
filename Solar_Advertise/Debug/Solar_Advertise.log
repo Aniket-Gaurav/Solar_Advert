@@ -1,0 +1,3 @@
+﻿  Solar_Advertise.cpp
+C:\Users\homep\source\repos\Solar_Advertise\Solar_Advertise\Solar_Advertise.cpp(2544,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Solar_Advertise.vcxproj -> C:\Users\homep\source\repos\Solar_Advertise\Debug\Solar_Advertise.exe
